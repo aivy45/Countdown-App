@@ -11,7 +11,7 @@
 
 
 #### Honest time to finish the project !
- - I had taken around 2 hours to finish this project.
+ - I had taken around 1.5 hours to finish this project.
 
 ### Link of the website
 - [Please Click Here](https://countdown-app-aivy3945.netlify.app/)
