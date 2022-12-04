@@ -1,6 +1,6 @@
 ### By Akshun Verma
 
-## Project Name: Rock Paper Scissor Game
+## Project Name: CountDown
 
 - In this project I have made CountDown, which will tell us the total remaining days, hours, minutes and seconds to a particular day. I have made this with HTML, CSS and JavaScript. It is also responsive.
 
